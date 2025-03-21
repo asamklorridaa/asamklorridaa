@@ -26,9 +26,9 @@
 
 <h2> Github Stats 📊</h2>
 <div style="flex" align="center">
-  <img alt="Kushagra Shukla Github Stats" src="https://github-readme-stats.vercel.app/api?username=SHUKLA-KUSHAGRA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="300" height="200"/>
-  <img alt="Kushagra Shukla streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHUKLA-KUSHAGRA&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="300" height="200"/>
-  <img alt="Kushagra Shukla Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUKLA-KUSHAGRA&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="250" height="200"/>
+  <img alt="Fachri Ahsani Github Stats" src="https://github-readme-stats.vercel.app/api?username=fchrii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="300" height="200"/>
+  <img alt="Fachri Ahsani streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fchrii&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="300" height="200"/>
+  <img alt="Fachri Ahsani Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchrii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="250" height="200"/>
 </div>
 
 <h2> Contribution Graph 📈</h2>
