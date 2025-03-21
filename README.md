@@ -10,11 +10,11 @@
 - 📘 I’m Currently Studying **New Tech Stack for Expanding My Skills set and Knowledge**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 🦝 If your'e looking out for your next hire, I am the one
-- 📫 How to reach me **shukla.kushagra.mmmut@gmail.com**
+- 📫 How to reach me **fachriahsani86@gmail.com**
 - ⚡ For Fun **Games, Music**
 - 😄 Pronouns: He/Him
   
-<p align="center"> <img src="https://github-trophies.vercel.app/?username=SHUKLA-KUSHAGRA" alt="" style="display:flex;width:200,height:200"/</p>
+<p align="center"> <img src="https://github-trophies.vercel.app/?username=fchrii" alt="" style="display:flex;width:200,height:200"/</p>
 
 <h2> Languages & Tools 🔨</h2>
 <p align="center">
