@@ -53,7 +53,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/SHUKLA-KUSHAGRA/SHUKLA-KUSHAGRA/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/fchrii/fchrii/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
