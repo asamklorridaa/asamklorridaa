@@ -23,7 +23,7 @@
 
 #### **Programming & Markup Languages:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,c#,python,ino" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,kotlin,jakartaee,python,ino" />
 </p>
 
 #### **Frameworks & Libraries:**
