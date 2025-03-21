@@ -28,7 +28,7 @@
 
 #### **Frameworks & Libraries:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,node,next,react,bootstrap,mysql,pip" />
+  <img src="https://skillicons.dev/icons?i=npm,nodejs,next,react,bootstrap,mysql,pip" />
 </p>
 
 #### **Tools & Platforms:**
