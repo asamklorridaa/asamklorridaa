@@ -18,13 +18,18 @@
 ### 🛠️ Tech Stack
 
 #### **Programming & Markup Languages:**
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Java](https://skillicons.dev/icons?i=java)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,typescript,java,python" />
+</p>
 #### **Frameworks & Libraries:**
-![Next.js](https://skillicons.dev/icons?i=nextjs) ![React](https://skillicons.dev/icons?i=react) ![Laravel](https://skillicons.dev/icons?i=laravel) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,bootstrap,tailwind" />
+</p>
 
 #### **Tools & Platforms:**
-![Docker](https://skillicons.dev/icons?i=docker) ![Arduino](https://skillicons.dev/icons?i=arduino) ![GitHub](https://skillicons.dev/icons?i=github) ![GitLab](https://skillicons.dev/icons?i=gitlab) ![Bitbucket](https://skillicons.dev/icons?i=bitbucket)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,arduino,github.gitlab,gitbucket" />
+</p>
 
 ---
 
