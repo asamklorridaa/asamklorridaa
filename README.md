@@ -25,6 +25,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,c#,python" />
 </p>
+
 #### **Frameworks & Libraries:**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=npm,node,next,react,bootstrap,mysql,pip" />
