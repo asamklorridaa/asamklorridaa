@@ -28,12 +28,12 @@
 
 #### **Frameworks & Libraries:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=npm,nodejs,next,react,bootstrap,mysql,pip" />
+  <img src="https://skillicons.dev/icons?i=npm,nodejs,next,react,bootstrap,mysql,redis" />
 </p>
 
 #### **Tools & Platforms:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab,bitbucket,vscode,cloudflare,docker,arduino" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab,bitbucket,vscode,cloudflare,docker,arduino,hostinger,cpanel" />
 </p>
 
 ---
