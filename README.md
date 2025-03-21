@@ -19,7 +19,7 @@
 
 #### **Programming & Markup Languages:**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,typescript,java,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,typescript,python" />
 </p>
 #### **Frameworks & Libraries:**
 <p>
