@@ -1,5 +1,5 @@
-### Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Fachri Ahsani](https://linktr.ee/4fchrii)!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SHUKLA-KUSHAGRA&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<h2 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <a href="https://linktr.ee/4fchrii">Fachri Ahsani!</a> Great to see u here!</h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fchrii&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 ---
 
@@ -23,7 +23,7 @@
 
 #### **Programming & Markup Languages:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,c#,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,c#,python,ino" />
 </p>
 
 #### **Frameworks & Libraries:**
