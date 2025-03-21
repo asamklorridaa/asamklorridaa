@@ -28,7 +28,7 @@
 
 #### **Tools & Platforms:**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,arduino,github,gitlab,gitbucket" />
+  <img src="https://skillicons.dev/icons?i=docker,arduino,github,gitlab,bitbucket" />
 </p>
 
 ---
