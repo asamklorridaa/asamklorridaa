@@ -33,7 +33,7 @@
 
 #### **Tools & Platforms:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab,bitbucker,vscode,cloudflare,docker,arduino" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab,bitbucket,vscode,cloudflare,docker,arduino" />
 </p>
 
 ---
