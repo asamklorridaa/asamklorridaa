@@ -1,9 +1,9 @@
-<h2 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <a href="https://linktr.ee/kushagra.shukla">Fachri Ahsani</a> Great to see u here!</h2>
+<h2 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <a href="https://linktr.ee/fchrii">Fachri Ahsani</a> Great to see u here!</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SHUKLA-KUSHAGRA&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <h2> About Me 🚀 </h2>
 
-- 💼 I'm a **Full Stack Developer based in India**, enthusiastic about creating innovative web applications.
+- 💼 I'm a **Full Stack Developer based in Indonesian🇮🇩**, enthusiastic about creating innovative web applications.
 - 📖 I enjoy learning new technologies & frameworks to enhance my skill set.
 - 👨‍💻 Passionate about software engineering, problem-solving, and building scalable solutions.
 - 📚 Constantly exploring and refining my knowledge in software development.
