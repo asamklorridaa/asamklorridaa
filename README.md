@@ -15,6 +15,10 @@
 
 ---
 
+<p align="center"> <img src="https://github-trophies.vercel.app/?username=fchrii" alt="" style="display:flex;width:200,height:200"/</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 #### **Programming & Markup Languages:**
