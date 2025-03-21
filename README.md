@@ -18,17 +18,17 @@
 ### 🛠️ Tech Stack
 
 #### **Programming & Markup Languages:**
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,typescript,java,python" />
 </p>
 #### **Frameworks & Libraries:**
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,bootstrap,tailwind" />
 </p>
 
 #### **Tools & Platforms:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,arduino,github.gitlab,gitbucket" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,arduino,github,gitlab,gitbucket" />
 </p>
 
 ---
