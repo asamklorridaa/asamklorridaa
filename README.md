@@ -22,17 +22,17 @@
 ### 🛠️ Tech Stack
 
 #### **Programming & Markup Languages:**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,c#,python,ino" />
 </p>
 
 #### **Frameworks & Libraries:**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=npm,nodejs,next,react,bootstrap,mysql,pip" />
 </p>
 
 #### **Tools & Platforms:**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab,bitbucket,vscode,cloudflare,docker,arduino" />
 </p>
 
