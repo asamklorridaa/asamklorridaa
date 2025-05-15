@@ -1,75 +1,49 @@
-<h2 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <a href="https://linktr.ee/4fchrii">Fachri Ahsani!</a> Great to see u here!</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fchrii&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatkhur03&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
----
+# 👋 Hi there! I'm Fathur
 
-### 🚀 About Me
+I'm an Information Systems student passionate about Front-End Development, turning ideas into interactive and user-friendly experiences with clean and efficient code. Always exploring new web technologies, I love building innovative projects and crafting seamless user experiences. Check out my repos and let's create something awesome together!😎🔥
+ 
+<!-- ## 🌐 Socials: -->
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/story.thur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatkhurrhn/)  -->
 
-- 💼 A **Full Stack Developer** based in **Indonesia** 🇮🇩
-- 📖 Passionate about learning new technologies & frameworks
-- 👨‍💻 Focused on building scalable, efficient, and maintainable applications
-- 📚 Constantly exploring and refining my knowledge in software development
-- 🤝 Looking to collaborate on **Open Source Projects**
-- 📫 Reach me at **fachriahsani86@gmail.com**
-- ⚡ Fun Fact: I love **Games & Music**
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/story.thur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatkhurrhn) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@fatkhurrhnn)
 
----
+[![image](https://github.com/fatkhurrhn/fatkhurrhn/blob/main/dino.gif)](https://fatkhurrhn.vercel.app/)
 
-<p align="center"> <img src="https://github-trophies.vercel.app/?username=fchrii" alt="" style="display:flex;width:200,height:200"/</p>
-
----
-
-### 🛠️ Tech Stack
-
-#### **Programming & Markup Languages:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,python" />
+<a href="https://github.com/fatkhurrhn">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fatkhurrhn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamachiii&layout=compact&theme=algolia"/>
+</a>
 </p>
 
-#### **Frameworks & Libraries:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=npm,nodejs,next,react,bootstrap,mysql" />
-</p>
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fatkhurrhn&theme=onestar&title=MultiLanguage,Stars,Commits,Repositories,Followers,Experience,PullRequest)
 
-#### **Tools & Platforms:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab,vscode,cloudflare,docker,arduino,wordpress" />
-</p>
+<!-- ## 💻 Technical Skills:
 
----
+- **Frontend Development:** HTML/CSS3, JavaScript, Bootstrap :v
+- **Tools and Design:** VSCode, GitHub and Figma -->
+<!-- snake graph -->
+<!-- <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+<h4> _generated with [Platane/snk](https://platane.me/snk/)_</h4>
+</div> -->
+<br>
+<div align="left">
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhurrhn&radius=16&theme=react&area=true&order=5" height="auto" alt="by fatkhurhhn"/> -->
+  <a href="https://fatkhurrhn.vercel.app/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhurrhn&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/>
+</a>
 
-### 🔗 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fachri.java)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@fachrii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fachri-ahsani)
 
----
 
-### 📂 Featured Project
 
-🚀 **Techtonics Websites** - A dynamic web project demonstrating my full-stack skills. Check it out here: [Techtonics Websites](https://github.com/fchrii/techtonics-websites.git)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fchrii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fchrii&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchrii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300"/>
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/fchrii/fchrii/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-### 🔥 Quote
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
