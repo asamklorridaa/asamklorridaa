@@ -23,17 +23,17 @@
 
 #### **Programming & Markup Languages:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,python,php" />
 </p>
 
 #### **Frameworks & Libraries:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=npm,nodejs,next,react,bootstrap,mysql" />
+  <img src="https://skillicons.dev/icons?i=npm,nodejs,next,react,bootstrap,mysql,tailwind,laravel,filament" />
 </p>
 
 #### **Tools & Platforms:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab,vscode,cloudflare,docker,arduino,wordpress" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab,vscode,cloudflare,docker,arduino,postman" />
 </p>
 
 ---
