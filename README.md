@@ -1,5 +1,5 @@
-<h2 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <a href="https://linktr.ee/4fchrii">Fachri Ahsani!</a> Great to see u here!</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fchrii&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<h2 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <a href="https://linktr.ee/4asamklorridaa">Fachri Ahsani!</a> Great to see u here!</h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asamklorridaa&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-<p align="center"> <img src="https://github-trophies.vercel.app/?username=fchrii" alt="" style="display:flex;width:200,height:200"/</p>
+<p align="center"> <img src="https://github-trophies.vercel.app/?username=asamklorridaa" alt="" style="display:flex;width:200,height:200"/</p>
 
 ---
 
@@ -48,7 +48,7 @@
 
 ### 📂 Featured Project
 
-🚀 **Techtonics Websites** - A dynamic web project demonstrating my full-stack skills. Check it out here: [Techtonics Websites](https://github.com/fchrii/techtonics-websites.git)
+🚀 **Techtonics Websites** - A dynamic web project demonstrating my full-stack skills. Check it out here: [Techtonics Websites](https://github.com/asamklorridaa/techtonics-websites.git)
 
 ---
 
@@ -65,7 +65,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/fchrii/fchrii/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github.com/asamklorridaa/asamklorridaa/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
