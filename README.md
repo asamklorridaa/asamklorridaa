@@ -56,7 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asamklorridaa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asamklorridaa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="400"/>
+  <img src="https://streak-stats.demolab.com/?user=asamklorridaa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asamklorridaa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300"/>
 </p>
 
