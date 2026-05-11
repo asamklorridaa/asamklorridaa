@@ -65,7 +65,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/asamklorridaa/asamklorridaa/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/asamklorridaa/asamklorridaa/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
